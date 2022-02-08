@@ -8,7 +8,7 @@ https://nadja0607.github.io/SoftwareArt/Assemblage/index.html
 
 <p align="justify"> Having the idea to allow people to escape from the ordinary news that we are bombarded with every day, we decided to create our own version of ‘The Daily Kid’, where people can choose the news category that they want to read and have it mixed with the names of characters from their favorite cartoons as children. The user is given the choice to decide on the cartoon before having the news displayed. The idea is to allow users and readers to reminisce about the past and take them back to their childhood while they do the everyday act of reading the news. The goal is to evoke memories and feelings of happiness and youthfulness while they go about reading the news.</p> 
 
-The link to 'The Daily Kid' can be found [here](https://aliawaleed.github.io/SoftwareArt/Assemblage/index.html).
+The link to 'The Daily Kid' can be found [here](https://nadja0607.github.io/SoftwareArt/Assemblage/index.html).
 
 <h2>The Algorithm</h2>
 
